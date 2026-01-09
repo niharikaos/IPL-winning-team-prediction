@@ -1,1 +1,2 @@
 # IPL-winning-team-prediction
+Developed a data-driven prediction system to forecast the winning team of Indian Premier League (IPL) matches using historical match and player performance data. Implemented machine learning models to analyze key factors such as team form, player statistics, venue impact, and match conditions. Performed data preprocessing, feature engineering, and model evaluation to improve prediction accuracy, providing insights through intuitive visualizations and analytical reports.
